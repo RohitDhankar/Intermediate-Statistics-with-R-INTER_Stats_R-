@@ -16,6 +16,8 @@ Do note basis feedback from students - the content and flow of the sessions keep
 ### Module -1 :- 
 [ Duration : @60 Minutes ] 
 #
+Descriptive Statistics the basic functions - ```summary() , aggregate() , by()``` , the Frequency tables etc. 
+#
 1. Introduction to Regression - Theory and Excel workbook examples
    Regression in R - the very basics . 
    Case Study -1 - Linear Regression within R
@@ -24,15 +26,21 @@ Do note basis feedback from students - the content and flow of the sessions keep
 2. Analysis of Variance - 
    The basic ANOVA models 
    Fitting ANOVA models - the ```aov()``` function . 
-   
-   
 #
-
+Questions and Answers. 
+#
+ 
 
 ### Module -2 :- 
-1. The Classification Problems - Introduction to Logistic Regression 
+1. Testing independence of Categorical variables - ```library(vcd) , chisq.test()```
+Source - CRAN - Visualizing Categorical Data - [VCD on CRAN](https://cran.r-project.org/web/packages/vcd/vcd.pdf)
+#
+2. The measures of association or the relationships within variables - ```library(vcd) , assocstats()```
+Source - CRAN - Visualizing Categorical Data - [VCD on CRAN](https://cran.r-project.org/web/packages/vcd/vcd.pdf)
+#
+3. The Classification Problems - Introduction to Logistic Regression 
 
-
+### Recap of earlier Modules and Important External Links :- 
 [R Project for Statistical Analysis](https://www.r-project.org/), Intro to [R Studio](https://www.rstudio.com/) , Intro to CRAN - any other introductory exchanges. 
 #
 [Download and Install R - Linux](https://ftp.iitm.ac.in/cran/bin/linux/)
