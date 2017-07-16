@@ -32,13 +32,28 @@ Questions and Answers.
  
 
 ### Module -2 :- 
+[ Duration : @60 Minutes ] 
 1. Testing independence of Categorical variables - ```library(vcd) , chisq.test()```
 Source - CRAN - Visualizing Categorical Data - [VCD on CRAN](https://cran.r-project.org/web/packages/vcd/vcd.pdf)
 #
 2. The measures of association or the relationships within variables - ```library(vcd) , assocstats()```
 Source - CRAN - Visualizing Categorical Data - [VCD on CRAN](https://cran.r-project.org/web/packages/vcd/vcd.pdf)
 #
-3. The Classification Problems - Introduction to Logistic Regression 
+3. Introduction to various Types of Regression - Simple Linear , Polynomial , Multiple Linear , Multivariate , Logistic , Poisson , Cox Proportional Hazards , Time Series etc . 
+
+[Open Source Ref_1 - All Copyright lies with Originator / Author](http://scc.stat.ucla.edu/page_attachments/0000/0140/reg_2.pdf) 
+
+[Open Source Ref_2 - All Copyright lies with Originator / Author](https://socserv.socsci.mcmaster.ca/jfox/Books/Companion/appendix/Appendix-Multivariate-Linear-Models.pdf) 
+
+[Open Source Ref_3 -MAIN- All Copyright lies with Originator / Author](http://little-book-of-r-for-multivariate-analysis.readthedocs.io/en/latest/src/multivariateanalysis.html) 
+
+#
+### Module-3:- 
+[ Duration : @60 Minutes ] 
+
+1. The Classification Problems - Introduction to Logistic Regression for the Dichotomous response Variable - ``` glm(formula , family =family(link=function),data=) ```
+
+Source - CRAN - [LogisticRegression and Generalised Linear Models](https://cran.r-project.org/web/packages/HSAUR/vignettes/Ch_logistic_regression_glm.pdf) 
 
 ### Recap of earlier Modules and Important External Links :- 
 [R Project for Statistical Analysis](https://www.r-project.org/), Intro to [R Studio](https://www.rstudio.com/) , Intro to CRAN - any other introductory exchanges. 
